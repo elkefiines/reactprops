@@ -1,0 +1,23 @@
+.App {
+  width: 100%;
+  max-width: 330px;
+  padding: 20px 0px 20px 0px;
+
+  text-align: center;
+
+  height: 100%;
+
+  margin: auto;
+  box-shadow: 0 10px 50px rgba(235, 25, 110, 1);
+}
+
+.img {
+  /* height: 300px;*/
+  height: 180px;
+  width: 180px;
+  border-radius: 50%;
+  border: 3px solid #272133;
+
+  margin: 40px auto;
+  box-shadow: 0 10px 50px rgba(235, 25, 110, 1);
+}
